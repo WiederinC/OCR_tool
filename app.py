@@ -8,7 +8,7 @@ from openai import OpenAI
 client = OpenAI(
     # This is the default and can be omitted
     #api_key = st.secrets["OPENAI_API_KEY"],
-    api_key = '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',
+    
 )
 
 # Define the function to get a response from OpenAI
